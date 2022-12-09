@@ -12,3 +12,5 @@ There are places for LEDs and lots of breakout for experiments.
 PCB files are in PCB folder, Case/Keycap files are in Mechanical folder.
 
 See [this link](https://imgur.com/a/yUpOR6v) for build pics (I will gradually add captions).
+
+![image](https://media.discordapp.net/attachments/340410967043342337/1015197915582566420/image0.gif)
