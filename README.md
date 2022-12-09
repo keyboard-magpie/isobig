@@ -1,5 +1,5 @@
 # isobig
-The big brother of isoPad
+The big brother of [isoPad](https://github.com/keyboard-magpie/isopad)
 
 ![image](https://imgur.com/JADe69Th.jpg)
 
