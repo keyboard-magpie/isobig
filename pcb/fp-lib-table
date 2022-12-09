@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "kailh_big_series")(type "KiCad")(uri "/Users/tombarnes/Documents/GitHub/isoBig/kailh_big_series.pretty")(options "")(descr ""))
+  (lib (name "kicad_blackpill")(type "KiCad")(uri "/Users/tombarnes/Documents/GitHub/isoBig/kicad_blackpill")(options "")(descr ""))
+)

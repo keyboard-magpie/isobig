@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "blackpill_stlink")(type "KiCad")(uri "/Users/tombarnes/Documents/GitHub/isoBig/kicad_blackpill/blackpill_stlink.kicad_sym")(options "")(descr ""))
+)
